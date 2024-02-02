@@ -59,6 +59,6 @@ Access the Application:
 4. **Demo Video:** https://www.loom.com/share/85807a8f2b024aa79c16a3109c7772a2
 5. **Output Images:**
 ![image](https://github.com/2001akash/spring-boot-chat-application/assets/88871193/e7160435-dfcc-474f-8896-60dfb12b9998)
-![image](https://github.com/2001akash/spring-boot-chat-application/assets/88871193/66d282b4-214e-446b-b38f-348f5b1e6949)
+![image](https://github.com/2001akash/spring-boot-chat-application/assets/88871193/22e7fc47-c3c7-46be-86df-f9bf9886a068)
 
 
